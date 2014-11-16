@@ -1,10 +1,16 @@
 body {
 	background-color: #7d7a72
+}
 #navbar {
 	position: fixed;
 	top:10px;
 	left:50%;
 	margin-left:-254px;
+}
+#header {
+	position: fixed;
+	top:;
+}
 
 #center{
   width: 45%;
