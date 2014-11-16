@@ -13,6 +13,5 @@ body {
 }
 
 #center{
-  width: 45%;
-  float: center;
+  position: fixed;
 }
