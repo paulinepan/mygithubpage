@@ -3,6 +3,7 @@ body {
 }
 
 Div img {
-	margin: auto;
+	margin: center;
+	text-align: center;
 }
 
