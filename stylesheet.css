@@ -5,5 +5,7 @@ body {
 .img {
 	margin: center;
 	text-align: center;
+	height: 100px;
+	width: 100px;
 }
 
