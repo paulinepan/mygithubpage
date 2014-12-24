@@ -345,7 +345,7 @@
 .jumbotron {
     margin-bottom: 0px;
     background-image: url(http://tympanus.net/Freebies/HalcyonDaysTemplate/img/hero-bg.jpg);
-    background-position: 0% 25%;
+    background-position: 0% 100%;
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
