@@ -343,12 +343,14 @@
 }
 .jumbotron { min-height: 500px; 
     margin-bottom: 0px;
-    font-family: Montserrat, sans-serif;
-    color: #fff;
     background-image: url(http://tympanus.net/Freebies/HalcyonDaysTemplate/img/hero-bg.jpg);
     background-position: 0% 100%;
     background-size: relative;
     background-repeat: no-repeat;
+}
+.jumbotron container {
+    font-family: Montserrat, sans-serif;
+    color: #fff;
 }
 
 
