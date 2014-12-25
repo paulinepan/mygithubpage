@@ -342,8 +342,9 @@
   }
 }
 
-.jumbotron { min-height: 500px;  
+.jumbotron { min-height: 500px; 
     margin-bottom: 0px;
+    vertical-align: middle;
     background-image: url(http://tympanus.net/Freebies/HalcyonDaysTemplate/img/hero-bg.jpg);
     background-position: 0% 100%;
     background-size: contain;
