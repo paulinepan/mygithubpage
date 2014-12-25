@@ -356,9 +356,9 @@
 footer a { color: #a1a9b0; }
 footer { background-color: #242830; padding: 40px 0 30px; }
 footer p { color: #fff; }
-ul.legals { list-style: none; color: #fff; line-height: 25px; }
-ul.legals li { display: inline-block; }
-ul.legals li::after { content: " |"; }
-ul.legals li:last-child::after { content: ""; }
-.legals { text-align: left; }
-.credit { text-align: right; }
+ul.contact { list-style: none; color: #fff; line-height: 25px; }
+ul.contact li { display: inline-block; }
+ul.contact li::after { content: " |"; }
+ul.contact li:last-child::after { content: ""; }
+.contact { text-align: center; }
+
