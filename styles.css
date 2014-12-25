@@ -362,5 +362,5 @@ ul.contact li { display: inline-block; }
 ul.contact li::after { content: " |"; }
 ul.contact li:last-child::after { content: ""; }
 .contact { text-align: left; }
-.credit { text-align:right; }
+.credit { text-align: right; }
 
