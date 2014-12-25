@@ -360,5 +360,5 @@ ul.contact { list-style: none; color: #fff; line-height: 25px; }
 ul.contact li { display: inline-block; }
 ul.contact li::after { content: " |"; }
 ul.contact li:last-child::after { content: ""; }
-.contact { text-align: center; }
+.contact { text-align: left; }
 
