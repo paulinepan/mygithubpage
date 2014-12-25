@@ -349,7 +349,10 @@
     background-repeat: no-repeat;
     color: white;
     font-family: Montserrat, sans-serif;
-    
+}
+.body {
+  color:white;
+  font-family; Montserrat, sans-serif;
 }
 
 footer a { color: #a1a9b0; }
