@@ -347,6 +347,8 @@
     background-position: 0% 100%;
     background-size: relative;
     background-repeat: no-repeat;
+    color: #FFFFFF;
+/*font-color:none !important;*/
 }
 
 
