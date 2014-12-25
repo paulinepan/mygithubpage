@@ -350,6 +350,9 @@
     color: #FFFFFF;
 /*background-color:none !important;*/
 }
+.jumbotron p {
+  color: #fff;
+}
 
 
 
