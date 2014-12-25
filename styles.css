@@ -341,13 +341,13 @@
     display: none;
   }
 }
-.jumbotron { min-height: 500px, color: #ffffff; 
+.jumbotron { min-height: 500px, ; 
     margin-bottom: 0px;
     background-image: url(http://tympanus.net/Freebies/HalcyonDaysTemplate/img/hero-bg.jpg);
     background-position: 0% 100%;
     background-size: relative;
     background-repeat: no-repeat;
-    text-shadow: black 0.3em 0.3em 0.3em;
+    color: #ffffff;
     font-family: Montserrat, sans-serif;
     
 }
