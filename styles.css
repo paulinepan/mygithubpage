@@ -352,8 +352,6 @@
     
 }
 
-
-
 footer a { color: #a1a9b0; }
 footer { background-color: #242830; padding: 40px 0 30px; }
 footer p { color: #fff; }
@@ -363,4 +361,8 @@ ul.contact li::after { content: " |"; }
 ul.contact li:last-child::after { content: ""; }
 .contact { text-align: left; }
 .credit { text-align: right; }
+
+body {
+    background-color: #242830;
+} 
 
